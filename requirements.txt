@@ -1,0 +1,3 @@
+emergent-sdk
+python-dotenv
+requests
